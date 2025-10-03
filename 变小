@@ -1,0 +1,1 @@
+--[[failedmite57926制作的简单脚本字符设置：身体类型-0%身高-90%宽度-70%头部-100%比例-100%]]--本地本地玩家=游戏：GetService("玩家").本地玩家本地字符=本地玩家.字符本地类人字符=字符：FindFirstChildOfClass("类人")本地函数对于类人：FindFirstChild("BodyDepthScale")：销毁()等待(0。2)rm()等待(0.5)类人：FindFirstchildLD(“BodyDepthScale”)：销毁()等待(0.2)rm()等待(0.5)类人：FindFirstchild(“HeadScale”)：销毁()"头比例"
